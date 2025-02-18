@@ -1,0 +1,126 @@
+html, body {
+    overflow: hidden;
+  }
+
+.oncemore1{
+    width: 1554.84px; 
+    height: 771.14px;
+    left: 46px; 
+    top: 127.48px; 
+    position: absolute; 
+    opacity: 0.10; 
+    color: black; 
+    font-size: 230px; 
+    font-family: Lato; 
+    font-weight: 300;
+     word-wrap: break-word;
+}
+
+.oncemore2{
+    width: 1554.84px; 
+    height: 771.14px; 
+    left: 46px; 
+    top: 203.48px; 
+    position: absolute; 
+    opacity: 0.40; 
+    color: black; 
+    font-size: 230px; 
+    font-family: Lato; 
+    font-weight: 300; 
+    word-wrap: break-word;
+}
+
+.oncemore3{
+    width: 1554.84px; 
+    height: 771.14px; 
+    left: 51px; 
+    top: 518.48px; 
+    position: absolute; 
+    color: black; 
+    font-size: 230px; 
+    font-family: Lato; 
+    font-weight: 300; 
+    word-wrap: break-word;
+}
+
+.oncemore4{
+    width: 1554.84px;
+     height: 771.14px; 
+     left: 46px; 
+     top: 298.48px;
+     position: absolute; 
+     opacity: 0.70; 
+     color: black; 
+     font-size: 230px; 
+     font-family: Lato; 
+     font-weight: 300; 
+     word-wrap: break-word;
+}
+
+@media screen and (max-width: 375px) {
+    .container{
+        width: 320px; 
+        height: 542px; 
+        position: relative; 
+        background: white;
+    }
+
+   .oncemore1{
+    width: 547.74px; 
+    height: 337.22px; 
+    left: -115px; 
+    top: 19.69px; 
+    position: absolute; 
+    opacity: 0.10; 
+    text-align: center; 
+    color: black; 
+    font-size: 100px; 
+    font-family: Lato; 
+    font-weight: 300; 
+    word-wrap: break-word;
+   } 
+   .oncemore2{
+    width: 295.95px; 
+    height: 207.32px; 
+    left: 11px; 
+    top: 89.99px; 
+    position: absolute; 
+    opacity: 0.40; 
+    text-align: center; 
+    color: black; 
+    font-size: 100px; 
+    font-family: Lato; 
+    font-weight: 300; 
+    word-wrap: break-word;
+   } 
+
+   .oncemore3{
+    width: 469.84px; 
+    height: 766.97px; 
+    left: -75px; 
+    top: 230.17px; 
+    position: absolute; 
+    text-align: center; 
+    color: black; 
+    font-size: 100px;
+     font-family: Lato; 
+     font-weight: 300; 
+     word-wrap: break-word;
+   } 
+
+   .oncemore4{
+    width: 445.61px; 
+    height: 800.54px; 
+    left: -63px; 
+    top: 160px; 
+    position: absolute; 
+    opacity: 0.70; 
+    text-align: center; 
+    color: black; 
+    font-size: 100px;
+    font-family: Lato; 
+    font-weight: 300; 
+    word-wrap: break-word;
+   } 
+
+}
