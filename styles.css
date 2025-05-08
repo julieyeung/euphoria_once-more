@@ -1,5 +1,6 @@
 html, body {
     overflow: hidden;
+    background-color: #C4862D;
   }
 
 .oncemore1{
@@ -36,7 +37,7 @@ html, body {
     left: 51px; 
     top: 518.48px; 
     position: absolute; 
-    color: black; 
+    color: #B32F26; 
     font-size: 230px; 
     font-family: Lato; 
     font-weight: 300; 
@@ -101,7 +102,7 @@ html, body {
     top: 230.17px; 
     position: absolute; 
     text-align: center; 
-    color: black; 
+    color: #B32F26; 
     font-size: 100px;
      font-family: Lato; 
      font-weight: 300; 
